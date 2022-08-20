@@ -1,0 +1,30 @@
+[
+    {
+        "model": "vanitiesapi.size",
+        "pk": 1,
+        "fields": {
+            "width": 18.000
+        }
+    },
+    {
+        "model": "vanitiesapi.size",
+        "pk": 2,
+        "fields": {
+            "width": 24.000
+        }
+    },
+    {
+        "model": "vanitiesapi.size",
+        "pk": 3,
+        "fields": {
+            "width": 30.000
+        }
+    },
+    {
+        "model": "vanitiesapi.size",
+        "pk": 4,
+        "fields": {
+            "width": 36.000
+        }
+    }
+]

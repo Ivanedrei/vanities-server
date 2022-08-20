@@ -1,0 +1,37 @@
+[
+    {
+        "model": "vanitiesapi.color",
+        "pk": 1,
+        "fields": {
+            "label": "white"
+        }
+    },
+    {
+        "model": "vanitiesapi.color",
+        "pk": 2,
+        "fields": {
+            "label": "gray"
+        }
+    },
+    {
+        "model": "vanitiesapi.color",
+        "pk": 3,
+        "fields": {
+            "label": "blue"
+        }
+    },
+    {
+        "model": "vanitiesapi.color",
+        "pk": 4,
+        "fields": {
+            "label": "light stain"
+        }
+    },
+    {
+        "model": "vanitiesapi.color",
+        "pk": 5,
+        "fields": {
+            "label": "dark stain"
+        }
+    }
+]

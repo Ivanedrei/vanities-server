@@ -1,0 +1,32 @@
+[
+    {
+        "model": "vanitiesapi.vanities",
+        "pk": 1,
+        "fields": {
+            "id": 1,
+            "type": 1,
+            "color": 1,
+            "wood": 1,
+            "size": 4,
+            "price": 620.00,
+            "image_url": "https://picsum.photos/id/237/200/300",
+            "description": "lorem ipsum",
+            "quantity": 0
+        }
+    },
+    {
+        "model": "vanitiesapi.vanities",
+        "pk": 2,
+        "fields": {
+            "id": 2,
+            "type": 2,
+            "color": 2,
+            "wood": 2,
+            "size": 2,
+            "price": 740.00,
+            "image_url": "https://picsum.photos/seed/picsum/200/300",
+            "description": "lorem ipsum",
+            "quantity": 0
+        }
+    }
+]

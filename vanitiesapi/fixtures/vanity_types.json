@@ -1,0 +1,30 @@
+[
+    {
+        "model": "vanitiesapi.vanitytype",
+        "pk": 1,
+        "fields": {
+            "label": "farm"
+        }
+    },
+    {
+        "model": "vanitiesapi.vanitytype",
+        "pk": 2,
+        "fields": {
+            "label": "classic"
+        }
+    },
+    {
+        "model": "vanitiesapi.vanitytype",
+        "pk": 3,
+        "fields": {
+            "label": "modern"
+        }
+    },
+    {
+        "model": "vanitiesapi.vanitytype",
+        "pk": 4,
+        "fields": {
+            "label": "rustic"
+        }
+    }
+]

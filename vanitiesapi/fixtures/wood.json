@@ -1,0 +1,30 @@
+[
+    {
+        "model": "vanitiesapi.wood",
+        "pk": 1,
+        "fields": {
+            "label": "maple"
+        }
+    },
+    {
+        "model": "vanitiesapi.wood",
+        "pk": 2,
+        "fields": {
+            "label": "white oak"
+        }
+    },
+    {
+        "model": "vanitiesapi.wood",
+        "pk": 3,
+        "fields": {
+            "label": "barn wood"
+        }
+    },
+    {
+        "model": "vanitiesapi.wood",
+        "pk": 4,
+        "fields": {
+            "label": "cedar"
+        }
+    }
+]
