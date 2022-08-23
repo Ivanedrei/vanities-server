@@ -16,10 +16,14 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from rest_framework import routers
-from vanitiesapi.views import VanityView
+from vanitiesapi.views import VanityView, SizeView, WoodView, ColorView, VanityTypeView
 
 router = routers.DefaultRouter(trailing_slash=False)
 router.register(r'vanities', VanityView, 'vanity')
+router.register(r'vanity_types', VanityTypeView, 'vanity')
+router.register(r'size', SizeView, 'vanity')
+router.register(r'wood', WoodView, 'vanity')
+router.register(r'color', ColorView, 'vanity')
 
 
 urlpatterns = [

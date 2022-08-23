@@ -1,4 +1,3 @@
-from turtle import width
 from django.db import models
 
 
